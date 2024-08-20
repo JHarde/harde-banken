@@ -1,0 +1,2 @@
+# harde-banken
+Ruby project
